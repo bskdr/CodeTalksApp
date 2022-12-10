@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "226636459645",
+    "firebase_url": "https://patika-6e58b-default-rtdb.firebaseio.com",
+    "project_id": "patika-6e58b",
+    "storage_bucket": "patika-6e58b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226636459645:android:a8a248ff1ae6abd7730b14",
+        "android_client_info": {
+          "package_name": "com.bananeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226636459645-i1lm6sqbfflqqdb706ichm4r27sb68sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCo8HuDhgJDXDNkCAnCJwXITwosJ7hZX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226636459645-i1lm6sqbfflqqdb706ichm4r27sb68sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226636459645:android:f336c04aaa5d23c9730b14",
+        "android_client_info": {
+          "package_name": "com.codetalksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226636459645-i1lm6sqbfflqqdb706ichm4r27sb68sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCo8HuDhgJDXDNkCAnCJwXITwosJ7hZX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226636459645-i1lm6sqbfflqqdb706ichm4r27sb68sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226636459645:android:0b55b73271addc87730b14",
+        "android_client_info": {
+          "package_name": "com.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226636459645-i1lm6sqbfflqqdb706ichm4r27sb68sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCo8HuDhgJDXDNkCAnCJwXITwosJ7hZX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226636459645-i1lm6sqbfflqqdb706ichm4r27sb68sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
